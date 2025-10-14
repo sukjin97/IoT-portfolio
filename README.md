@@ -4,7 +4,7 @@ IoT Portfolio(스마트팜 및 아두이노 프로젝트)
 
 실습 첫째날(2025년 10월 14일)-Analog와 Digital의 차이점 분석 및 analogwrite와 digitalWrite, delay함수의 사용 용도 분석
 
-1) analogWrite는 analogWrite(pin번호, 밝기)로 꽂은 핀 번호의 LED의 밝기를 0V~5V, IDE 프로그래밍 상에서는 숫자로 표현하면 0~255사이의 밝기로 설정.
+1) analogWrite는 analogWrite(pin번호, 밝기)로 꽂은 핀 번호의 LED의 밝기를 0V~5V, IDE 프로그래밍 상에서는 숫자로 표현하면 0에서 255사이의 밝기로 설정.
 2) digitalWrite는 digitalWrite(pin번호, High(켜짐)/Low(꺼짐))으로 표현
     -High= 전류의 최댓값(5V)= 켜짐
     -Low는 전류의 최솟값(0V)= 꺼짐
