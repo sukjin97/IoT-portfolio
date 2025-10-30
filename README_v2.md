@@ -27,7 +27,7 @@
 
 3. 실습
    
-    [영상 재생 (클릭)](https://github.com/sukjin97/IoT-portfolio/raw/main/led_test h264.mp4)
+    [영상 재생 (클릭)](https://github.com/sukjin97/IoT-portfolio/raw/main/led_test_h264.mp4)
   
 
    시행착오: 13번 핀에 LED의 긴 다리(+)를 끼우고 GND에 짧은 다리(-)를 끼워서 동작하게 했으나 동작이 안됨.
