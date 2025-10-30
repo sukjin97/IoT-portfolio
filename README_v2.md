@@ -26,8 +26,10 @@
      -앞으로도 아두이노 보드가 고장나지 않았나 하는 의심이 들때마다 해보는 거 추천!
 
 3. 실습
+   
+   영상: [led_test.mp4 (클릭해서 재생)](led_test.mp4)
    Digital핀에 LED를 꽂은 뒤 해당 LED에 불이 들어오게 하기
-   영상:<video src="led_test.mp4" controls width="600"></video>
+  
 
    시행착오: 13번 핀에 LED의 긴 다리(+)를 끼우고 GND에 짧은 다리(-)를 끼워서 동작하게 했으나 동작이 안됨.
 
