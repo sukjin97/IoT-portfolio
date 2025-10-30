@@ -27,7 +27,7 @@
 
 3. 실습
    
-   영상: [led_test.mp4 (클릭해서 재생)](led_test.mp4)
+   영상: [영상 재생 (클릭)](https://github.com/sukjin97/IoT-portfolio/raw/main/led_test.mp4)
    Digital핀에 LED를 꽂은 뒤 해당 LED에 불이 들어오게 하기
   
 
